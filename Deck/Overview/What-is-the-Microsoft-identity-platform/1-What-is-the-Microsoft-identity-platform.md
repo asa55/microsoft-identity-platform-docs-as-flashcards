@@ -130,7 +130,7 @@ With the Microsoft **identity** platform, you can write code once and reach any 
 
 ##
 
-![application scenarios](./application-scenarios-identity-platform.png)
+![application scenarios](./img/application-scenarios-identity-platform.png)
 
 Microsoft identity platform documented application scenarios:
 
